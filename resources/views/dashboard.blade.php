@@ -1,1 +1,4 @@
-<x-app-layout>dashboard</x-app-layout>
+<x-app-layout>
+    <x-slot name="title">Dashboard</x-slot>
+    <div>dashboard</div>
+</x-app-layout>
